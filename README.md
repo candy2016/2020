@@ -1,3 +1,3 @@
 <html>
- <h1><div style="width: 100px; margin:0 auto"><b> 大佬，今天也要加油鸭！ <b/></div></h1>
+ <div class="text" style=" text-align:center;"><h1><b> 大佬，今天也要加油鸭!</b></h1></div>
 </html>
